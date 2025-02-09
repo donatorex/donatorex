@@ -1,6 +1,6 @@
 ![top](/assets/top.jpg)
 
-# Roman Kozlov - Data Scientist / ML engineer
+# Data Scientist / ML engineer
 
 Hello! My name is Roman Kozlov, and I am an aspiring Data Scientist. Welcome to my GitHub profile!
 
