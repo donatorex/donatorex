@@ -2,7 +2,7 @@
 
 # Data Scientist / ML engineer
 
-Hello! My name is Roman Kozlov, and I am an aspiring Data Scientist. Welcome to my GitHub profile!
+Hello! My name is Roman Kozlov and I am an aspiring Data Scientist. Welcome to my GitHub profile!
 
 ## About Me
 - **Age**: 28 years
