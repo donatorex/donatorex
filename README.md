@@ -47,5 +47,5 @@ I am actively seeking a position in the field of Data Science where I can apply 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79152878727)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roakozlov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roakozlov)
-[![HH.ru](https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/)
+[![HH.ru](https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/47e1e01cff0e6e53e50039ed1f6538724a4450)
 
