@@ -5,14 +5,15 @@
 Hello! My name is Roman Kozlov and I am an aspiring Data Scientist. Welcome to my GitHub profile!
 
 ## About Me
-- **Age**: 28 years
+- **Age**: 29 years
 - **Location**: Moscow -> Almaty
 - **Background**: Chemical engineer, graduated from the Russian Chemical Technology University (RCTU), worked at Rosatom, dealing with artificial graphites and composite materials, and was a division head. But later on I decided to change my activity to Data Science, which has long interested me.
 - **Journey into IT**:
   - Long-time interest in computer science;
   - Learned Python in 2021 and used it extensively in scientific work;
   - Completed the Data Science course at Yandex Practicum in 2024 ("Data Science Specialist");
-  - Made several successful pet projects that I am now actively applying in my part-time jobs.
+  - Made several successful pet projects that I am now actively applying in my part-time jobs;
+  - In 2025, successfully completed an internship at Yandex, where I worked on the design of sponsored search auctions.
 
 
 ## My Activities and Goals
